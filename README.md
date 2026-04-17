@@ -10,6 +10,20 @@
 - 🛡️ **Systems**: Experienced in KVM Virtualization and Linux environment management.
 
 ---
+---
+
+### 📜 AWS Technical Certifications (SimuLearn)
+*Hands-on cloud architecture and implementation training via AWS Skill Builder.*
+
+| Domain | Proficiency | Key Skills |
+| :--- | :--- | :--- |
+| **Cloud Practitioner** | Core Essentials | Global Infrastructure, Shared Responsibility Model |
+| **Networking** | Connecting VPCs | VPC Peering, Subnets, Internet Gateways |
+| **Scalability** | Auto-Healing | Auto Scaling Groups, Load Balancing, High Availability |
+| **Security** | Core Concepts | IAM Policies, Security Groups, Data Encryption |
+| **Databases** | DBs in Practice | Amazon RDS, DynamoDB, Database Migration |
+
+---
 
 ### 📊 GitHub Stats & Skills
 <p align="left">
