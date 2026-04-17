@@ -24,6 +24,24 @@
 | **Databases** | DBs in Practice | Amazon RDS, DynamoDB, Database Migration |
 
 ---
+---
+
+### ☁️ AWS Cloud Portfolio & Verified Certifications
+*Validated hands-on expertise in Cloud Infrastructure, Security, and Scalability.*
+
+> [!TIP]
+> **[📂 View All Verified AWS Certificates Here](https://drive.google.com/drive/u/1/folders/1BQvG9qKkfxCGN9hCokPRrsCL248McB12)**
+
+| Core Competency | Skill Focus | Status |
+| :--- | :--- | :--- |
+| **Cloud Foundations** | Global Infrastructure & Shared Responsibility | ✅ Certified |
+| **Network Architecture** | VPC Peering, Subnets, & Internet Gateways | ✅ Certified |
+| **High Availability** | Auto Scaling Groups & Elastic Load Balancing | ✅ Certified |
+| **Cloud Security** | IAM Policy Management & Data Encryption | ✅ Certified |
+| **Database Systems** | Amazon RDS & DynamoDB Implementation | ✅ Certified |
+| **Scalable Web Apps** | Multi-AZ Deployment & Fault Tolerance | ✅ Certified |
+
+---
 
 ### 📊 GitHub Stats & Skills
 <p align="left">
